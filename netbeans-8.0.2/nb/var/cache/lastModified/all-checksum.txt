@@ -1,0 +1,6 @@
+user=1444026696000
+crc=3161
+locale=pl_PL
+branding=null
+java.version=1.8.0_60
+java.vm.version=25.60-b23
